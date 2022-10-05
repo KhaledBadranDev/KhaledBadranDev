@@ -1,5 +1,4 @@
-![programming_gym_banner](https://user-images.githubusercontent.com/78341798/193962228-8d27b8fb-5802-45c6-8dbd-cbe1f0e1ad11.gif)
-
+![github_cover_banner](https://user-images.githubusercontent.com/78341798/193966948-a0f3158a-407d-448d-acde-39c0f8144524.gif)
 
 - 👋 Hi, my name is Khaled Badran.
 - 👀 I’m interested in object oriented programming languages especially in python.
