@@ -108,12 +108,12 @@
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!](https://ytcards.demolab.com/?id=jjilbKTNwLk&title=Outstanding+GitHub+Profile+README+Portfolio+%7C+2+Ways+in+4+Minutes%21&timestamp=1665237440&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Outstanding GitHub Profile README Portfolio | 2 Ways in 4 Minutes!")](https://www.youtube.com/watch?v=jjilbKTNwLk)
 [![Scratch Functions | My Blocks](https://ytcards.demolab.com/?id=FqAvlmvfo7k&title=Scratch+Functions+%7C+My+Blocks&timestamp=1664182702&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Scratch Functions | My Blocks")](https://www.youtube.com/watch?v=FqAvlmvfo7k)
 [![AI Car Racing Game In Scratch](https://ytcards.demolab.com/?id=4DIV3K7pOek&title=AI+Car+Racing+Game+In+Scratch&timestamp=1663144511&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "AI Car Racing Game In Scratch")](https://www.youtube.com/watch?v=4DIV3K7pOek)
 [![What Is JSON And How To Generate And Parse It Using Node.js - In 7 Minutes](https://ytcards.demolab.com/?id=WskFRusLDI8&title=What+Is+JSON+And+How+To+Generate+And+Parse+It+Using+Node.js+-+In+7+Minutes&timestamp=1662986380&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "What Is JSON And How To Generate And Parse It Using Node.js - In 7 Minutes")](https://www.youtube.com/watch?v=WskFRusLDI8)
 [![Simple pong game in python using pygame.](https://ytcards.demolab.com/?id=0-3HOwEegBI&title=Simple+pong+game+in+python+using+pygame.&timestamp=1655742492&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Simple pong game in python using pygame.")](https://www.youtube.com/watch?v=0-3HOwEegBI)
 [![Tetris in python using pygame](https://ytcards.demolab.com/?id=Exu8rXU9skw&title=Tetris+in+python+using+pygame&timestamp=1655328690&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Tetris in python using pygame")](https://www.youtube.com/watch?v=Exu8rXU9skw)
-[![Schule Verwaltungssystem - Desktop-App mit Java und JavaFX - Deutsch - Eclipse IDE](https://ytcards.demolab.com/?id=mlCZ0IpSms4&title=Schule+Verwaltungssystem+-+Desktop-App+mit+Java+und+JavaFX+-+Deutsch+-+Eclipse+IDE&timestamp=1646827554&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Schule Verwaltungssystem - Desktop-App mit Java und JavaFX - Deutsch - Eclipse IDE")](https://www.youtube.com/watch?v=mlCZ0IpSms4)
 <!-- END YOUTUBE-CARDS -->
 </div>
 
