@@ -8,7 +8,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:gym4programming@gmail.com)
+[Email Me](mailto:khaledb.dev@gmail.com)
 </div>
 </p>    
 <br>
