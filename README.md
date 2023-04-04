@@ -108,12 +108,7 @@
 <div class="youtube videos cards" align="center">
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend](https://ytcards.demolab.com/?id=rs5Z3uc0RMU&title=The+Fundamentals+of+Web+Development+-+REST+APIs%2C+HTTP+Requests%2C+Databases%2C+Frontend%2C+and+Backend&lang=en&timestamp=1679757592&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "The Fundamentals of Web Development - REST APIs, HTTP Requests, Databases, Frontend, and Backend")](https://www.youtube.com/watch?v=rs5Z3uc0RMU)
-[![Olympic Clean Personal Record 135 KG | Maxing Out](https://ytcards.demolab.com/?id=7LGrv4xa0Tc&title=Olympic+Clean+Personal+Record+135+KG+%7C+Maxing+Out&lang=en&timestamp=1679754700&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Olympic Clean Personal Record 135 KG | Maxing Out")](https://www.youtube.com/watch?v=7LGrv4xa0Tc)
-[![Front Squat 180 kg 397 lbs.](https://ytcards.demolab.com/?id=1iEfWvpc9Gk&title=Front+Squat+180+kg+397+lbs.&lang=en&timestamp=1679754599&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Front Squat 180 kg 397 lbs.")](https://www.youtube.com/watch?v=1iEfWvpc9Gk)
-[![Back Squat 180 KG 396 lbs  | 3rd Set](https://ytcards.demolab.com/?id=RD9gDC5Xh1k&title=Back+Squat+180+KG+396+lbs++%7C+3rd+Set&lang=en&timestamp=1679754466&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Back Squat 180 KG 396 lbs  | 3rd Set")](https://www.youtube.com/watch?v=RD9gDC5Xh1k)
-[![Sumo Deadlift 260 KG 573 lbs | Full Deadlift Training Session | Including Warm-Up](https://ytcards.demolab.com/?id=QPwowof0p9c&title=Sumo+Deadlift+260+KG+573+lbs+%7C+Full+Deadlift+Training+Session+%7C+Including+Warm-Up&lang=en&timestamp=1679753486&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Sumo Deadlift 260 KG 573 lbs | Full Deadlift Training Session | Including Warm-Up")](https://www.youtube.com/watch?v=QPwowof0p9c)
-[![Back Squat 3 PRS in 1 Session #shorts](https://ytcards.demolab.com/?id=CCL0KJvF0vc&title=Back+Squat+3+PRS+in+1+Session+%23shorts&lang=en&timestamp=1679749882&background_color=%2307102B&title_color=%23ffffff&stats_color=%23dedede&width=250 "Back Squat 3 PRS in 1 Session #shorts")](https://www.youtube.com/watch?v=CCL0KJvF0vc)
+
 <!-- END YOUTUBE-CARDS -->
 </div>
 
